@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello everyone, how are you, this is my github which may be less interesting, thank you for stopping by here 👋
 
-<!--
-**renemu/renemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lifelong Learner, currently working as budagh kompeni.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renemu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-Here are some ideas to get you started:
+<!--### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><a href="https://github.com/renemu"><img src="https://github-profile-trophy.vercel.app/?username=renemu&column=6&row=1&margin-w=15&margin-h=15" alt="Hai" /></a></p>
+<hr>
+
+![](https://github-readme-stats.vercel.app/api?username=renemu&&show_icons=true&count_private=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=renemu)
