@@ -1,7 +1,7 @@
 ## Hello everyone, how are you, this is my github which may be less interesting, thank you for stopping by here 👋
 
 
-<h2 align="center">Lifelong Learner, currently working as company.</h2>
+<h2 align="center">Lifelong Learner, currently working at company.</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=renemu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
