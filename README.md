@@ -31,9 +31,9 @@ I'm a passionate developer who loves building things and learning new technologi
 
 ## 📊 GitHub Stats
 
-| Languages |
-|-----------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renemu&layout=compact) |
+<!-- | Languages |
+<!-- |-----------|
+<!-- | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renemu&layout=compact) |
 
 <!-- ## 🏆 GitHub Trophies -->
 
