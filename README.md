@@ -30,7 +30,7 @@ I'm a passionate developer who loves building things and learning new technologi
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+<!--  ## 📊 GitHub Stats
 
 <!-- | Languages |
 <!-- |-----------|
