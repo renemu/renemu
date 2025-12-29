@@ -22,6 +22,7 @@ I'm a passionate developer who loves building things and learning new technologi
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-3178C6?style=flat-square&logo=php&logoColor=white)
 
 **Tools & Platforms:**
 
