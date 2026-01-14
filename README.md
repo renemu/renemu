@@ -6,52 +6,77 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves building things and learning new technologies. Currently working as a software developer, constantly exploring and growing in the world of code.
+I'm a **Software Engineer** with a strong focus on **Full Stack Web Development**, **IoT Systems**, and **DevOps**.  
+I enjoy building **end-to-end solutions** — from hardware devices and embedded systems to scalable web applications and cloud infrastructure.
 
-- 🔭 Working on exciting projects and learning new skills
-- 🌱 Always curious and eager to learn
-- 💬 Feel free to reach out if you want to collaborate or just chat about tech
+I have hands-on experience in developing production-ready systems, integrating IoT devices with web platforms, and deploying applications using modern DevOps practices.
 
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-3178C6?style=flat-square&logo=php&logoColor=white)
-
-**Tools & Platforms:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<!--  ## 📊 GitHub Stats
-
-<!-- | Languages |
-<!-- |-----------|
-<!-- | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renemu&layout=compact) |
-
-<!-- ## 🏆 GitHub Trophies -->
-
-<!-- <p align="center"> -->
-  
-<!-- ![](https://github-profile-trophy.vercel.app/?username=renemu&theme=flat&column=7&margin-w=10&margin-h=10&no-frame=false) -->
-  
-<!-- </p> -->
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [Muhammad Rifki Zulfikar](https://linkedin.com/in/muhammad-rifki-zulfikar-4243a9144)
-- 📧 Email: muhamadrifkizulfikar@gmail.com
-- 🌐 Website: [renemu.cloud](https://renemu.cloud)
+- 🔭 Building full stack web applications and IoT-based systems  
+- 🌱 Continuously learning about system architecture, scalability, and infrastructure  
+- 💬 Open to collaboration, discussions, and solving real-world problems through technology  
 
 ---
 
-<p align="center">
-  <i>⭐️ Feel free to star repositories you find interesting!</i>
-</p>
+## 🧠 Areas of Expertise
+
+- Full Stack Web Development (Frontend & Backend)
+- IoT & Hardware Integration
+- Realtime Systems & API Development
+- DevOps, Deployment, and Automation
+- End-to-End System Design
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Full Stack Web
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+---
+
+### 🌐 Backend & APIs
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-4A90E2?style=flat-square&logo=socket.io&logoColor=white)
+
+---
+
+### 🔌 IoT & Hardware
+
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
+
+---
+
+### 🚀 DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+## 📌 What I Build
+
+- Scalable full stack web applications
+- IoT monitoring and control systems
+- Realtime dashboards and APIs
+- Hardware–software integrated solutions
+- Production-ready deployments with CI/CD
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories, open an issue, or reach out for collaboration.  
+I'm always interested in building impactful and meaningful technology.
