@@ -37,6 +37,7 @@ I have hands-on experience in developing production-ready systems, integrating I
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-PYTHON-5B65FC?style=flat-square&logo=python&logoColor=white)
 
 ---
 
