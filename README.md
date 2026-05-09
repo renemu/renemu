@@ -41,11 +41,18 @@ I have hands-on experience in developing production-ready systems, integrating I
 
 ---
 
-### 🌐 Backend & APIs
+### 🌐 Backend & APIs 
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-4A90E2?style=flat-square&logo=socket.io&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white) 
+![WebSocket](https://img.shields.io/badge/-WebSocket-4A90E2?style=flat-square&logo=socket.io&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Pusher](https://img.shields.io/badge/-Pusher-352775?style=flat-square&logo=pusher&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-3C525C?style=flat-square&logo=mqtt&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
 ---
 
