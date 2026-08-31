@@ -1,8 +1,8 @@
 # Hi there, I'm Rifki 👋
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=renemu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ## 👨‍💻 About Me
 
