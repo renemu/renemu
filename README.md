@@ -52,7 +52,6 @@ I have hands-on experience in developing production-ready systems, integrating I
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-3C525C?style=flat-square&logo=mqtt&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
 ---
 
@@ -60,6 +59,7 @@ I have hands-on experience in developing production-ready systems, integrating I
 
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
 
